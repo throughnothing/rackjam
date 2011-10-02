@@ -10,7 +10,7 @@ sub disp{
 };
 
 disp("$n\n");
-for(1 .. $n-1){
+for(1 .. $n){
     for(1 .. $n-1){
         disp(rand() + .03 . ' ');
     }
