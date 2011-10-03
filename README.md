@@ -4,4 +4,5 @@ This repository will house my solutions (good or terrible) to RackJam problems. 
 
 ## 1. Arbitrage - 9/9/2010
 * http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=40
+* http://uvatoolkit.com/problemssolve.php - Problem Solver
 
